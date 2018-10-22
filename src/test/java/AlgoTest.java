@@ -18,6 +18,7 @@ public class AlgoTest {
 	Item five = new Item(5);
 
 	@Test
+	//The method to test the node, edge & conditional coverage
 	public void bubbleSortNodeAndConditionTest() {
 			
 		Item [] list = new Item[]{three, one, five, two, four};
@@ -29,6 +30,7 @@ public class AlgoTest {
 		assertEquals(five.key, list[4].key);
 	}
 	
+	//The method to test the edge & conditional coverage
 	@Test(expected=NullPointerException.class)
 	public void bubbleSortEdgeTest() {
 		

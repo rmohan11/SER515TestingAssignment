@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2018-10-22T01:41:32" hostname="Rakeshs-MacBook-Air.local" time="0.018">
+  <properties/>
+  <testcase name="bubbleSortEdgeTest" classname="test.java.AlgoTest" time="0.008"/>
+  <testcase name="bubbleSortNodeAndConditionTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortTwoElementTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortInOrderTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSortEdgeTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="selectionSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortConditionTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortEdgeTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="insertionSortEdgeTest" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
